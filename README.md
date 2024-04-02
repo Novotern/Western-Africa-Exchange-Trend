@@ -1,1 +1,2 @@
 # Western-Africa-Exchange-Trend
+An exchange rate is the rate at which one currency can be exchanged for another between nations or economic zones. It is used to determine the value of various currencies in relation to each other and is important in determining trade and capital flow dynamics. Exchange rates capture a lot of economic factors and variables and can fluctuate for various reasons.Some of the reasons that exchange rates can fluctuate include: Interest Rate, Inflation rate, Recession e.t.c
